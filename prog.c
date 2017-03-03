@@ -2,5 +2,7 @@
 #include<stdio.h>
 
 int main(int argc, char ** argv){
-  printf("Hello World2!\n");
+  char name[30];
+  scanf("%s", name);
+  printf("Hello %s!\n", name);
 }
