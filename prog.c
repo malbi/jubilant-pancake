@@ -4,5 +4,5 @@
 int main(int argc, char ** argv){
   char name[30];
   scanf("%s", name);
-  printf("Hello again %s!\n", name);
+  printf("Hello great %s!\n", name);
 }
